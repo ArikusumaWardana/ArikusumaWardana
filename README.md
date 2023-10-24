@@ -4,7 +4,7 @@
 <span>My focus? Becoming a Web Developer and go deeper into backend development. 💻💻</span>
 <span>My hobby? My hobby is listening to music. sometimes Japanese music, sometimes western music. 🎵🎵</span>
 <h3><b>Nice to meet you, guys...👋👋</b></h3>
-<img src="https://static.wikia.nocookie.net/871741d0-c97f-4fc9-8cea-8f6411385816/scale-to-width/755">
+<img width=400 src="https://static.wikia.nocookie.net/871741d0-c97f-4fc9-8cea-8f6411385816/scale-to-width/755">
 <br/>
 <hr>
 
