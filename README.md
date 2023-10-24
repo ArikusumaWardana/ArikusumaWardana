@@ -4,8 +4,7 @@
 <span>My focus? Becoming a Web Developer and go deeper into backend development. 💻💻</span><br/>
 <span>My hobby? My hobby is listening to music. sometimes Japanese music, sometimes western music. 🎵🎵</span><br/>
 <h3><b>Nice to meet you, guys...👋👋</b></h3>
-<img width=600 src="https://static.wikia.nocookie.net/871741d0-c97f-4fc9-8cea-8f6411385816/scale-to-width/755">
-<br/>
+<img width=500 src="https://static.wikia.nocookie.net/871741d0-c97f-4fc9-8cea-8f6411385816/scale-to-width/755">
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
