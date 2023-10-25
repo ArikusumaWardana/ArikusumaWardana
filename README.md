@@ -1,7 +1,7 @@
 <h1>Hello There... 😄</h1>
 
 <span>Hi... I'm <i><b>Arik</b></i>, 18 y.o, I live in Indonesia, and I'm venturing into the world of IT. 😵😵</span><br/>
-<span>Now I am continuing my education at <i><b>Primakara University</b></i>, and majoring in informatics.</span><br/>
+<span>Now I am continuing my education at <i><b>Primakara University</b></i>, and majoring in informatics. 🧑‍🎓</span><br/>
 <span>My focus? Becoming a Web Developer and go deeper into backend development. 💻💻</span><br/>
 <span>My hobby? My hobby is listening to music. sometimes Japanese music, sometimes western music. 🎵🎵</span><br/>
 <h3><b>Nice to meet you, guys...👋👋</b></h3>
