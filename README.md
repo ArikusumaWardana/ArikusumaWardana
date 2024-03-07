@@ -1,4 +1,4 @@
-![image](https://github.com/ArikusumaWardana/ArikusumaWardana/assets/87961962/012b5b29-540e-4231-89fc-30e54f059c78)<h1>Hello There...😄</h1>  
+<h1>Hello There...😄</h1>  
 
 <span>Hi... I'm <i><b>Arik</b></i>, 18 y.o, I live in <b>Indonesia</b>, and I'm venturing into the world of IT. 😵😵</span><br/>
 <span>Now I am continuing my education at <i><b>Primakara University</b></i>, and majoring in informatics. 🧑‍🎓</span><br/>
