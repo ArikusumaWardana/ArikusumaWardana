@@ -1,4 +1,4 @@
-<h1>Hello There...😄</h1>   
+<h1>Hello There...😄</h1>
 
 <span>Hi... I'm <i><b>Arik</b></i>, 19 y.o, I live in <b>Indonesia</b>, and I'm venturing into the world of IT. 😵😵</span><br/>
 <span>Now I am continuing my education at <i><b>Primakara University</b></i>, and majoring in informatics. 🧑‍🎓</span><br/>
