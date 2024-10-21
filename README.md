@@ -6,7 +6,7 @@
 <span>My hobby? My hobby is listening to music. sometimes Japanese music, sometimes EDM or Pop. 🎵🎵</span><br/>
 <h2><b>Nice to meet you, guys...👋👋</b></h2>
 <img width=500 src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwFhXVJkIUXlOkrAV4qlORTE">
-
+ 
 <hr>
 
 <p align="center">
