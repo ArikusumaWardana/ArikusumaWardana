@@ -1,6 +1,6 @@
   <h1>Hello There...😄</h1>           
               
-<span>Hi... I'm <i><b>Arik</b></i>, 19 y.o, I live in <b>Indonesia</b>, and I'm venturing into the world of IT. 😵😵</span><br/>
+<span>Hi... I'm <i><b>Arik</b></i>, 20 y.o, I live in <b>Indonesia</b>, and I'm venturing into the world of IT. 😵😵</span><br/>
 <span>Now I am continuing my education at <i><b>Primakara University</b></i>, and majoring in informatics. 🧑‍🎓</span><br/>
 <span>My focus? My focus is becoming a Web Developer and go deeper into frontend & backend development. 💻💻</span><br/>
 <span>My hobby? My hobby is listening to music. sometimes Japanese music, sometimes EDM or Pop. 🎵🎵</span><br/> 
