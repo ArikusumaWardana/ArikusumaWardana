@@ -7,7 +7,7 @@
 <h2><b>Nice to meet you, guys...👋👋</b></h2>
 <img width=500 src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwFhXVJkIUXlOkrAV4qlORTE">
   
-<hr>
+<hr> 
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
