@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi... I'm Arik, 20 y.o, I live in Indonesia, and I'm venturing into the world of IT. 😵😵<br>Now I am continuing my education at Primakara University, and majoring in informatics. 🧑‍🎓<br>My focus? My focus is becoming a Web Developer and still go deeper into Game Dev & Machine Learning. 💻💻<br>My hobby? My hobby is listening to music & playing some games. 🎵🎵 
+Hi... I'm Arik, 21 y.o, I live in Indonesia, and I'm venturing into the world of IT. 😵😵<br>Now I am continuing my education at Primakara University, and majoring in informatics. 🧑‍🎓<br>My focus? My focus is becoming a Web Developer and still go deeper into Game Dev & Machine Learning. 💻💻<br>My hobby? My hobby is listening to music & playing some games. 🎵🎵 
 
 
 ## 🌐 Socials:
