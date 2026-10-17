@@ -80,6 +80,57 @@ const arik = {
 
 <br>
 
+## 🗺️ Quest Log
+
+> Highlights of what I've shipped across web platforms and game development.
+
+<details open>
+<summary><b>🌐 Main Quests</b> · Web Platforms</summary>
+<br>
+
+### 📑 [Verso](https://verso-arsip.vercel.app)
+Personal digital archive platform for saving web articles and PDF research papers. Features clean, distraction-free reading formats and PostgreSQL-powered full-text search.
+
+<a href="https://verso-arsip.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-verso--arsip.vercel.app-3ddc97?style=flat-square&logo=vercel&logoColor=white&labelColor=0e1a1f" alt="Verso Demo" /></a>
+<a href="https://github.com/ArikusumaWardana/verso-arsip"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0e1a1f" alt="Verso Source" /></a>
+
+<br><br>
+
+### 🪐 [Orbita](https://orbita-memo.vercel.app)
+All-in-one personal productivity and financial intelligence workspace—unifying daily task management, event scheduling, multi-wallet cash flow tracking, and a context-aware AI assistant.
+
+<a href="https://orbita-memo.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-orbita--memo.vercel.app-3ddc97?style=flat-square&logo=vercel&logoColor=white&labelColor=0e1a1f" alt="Orbita Demo" /></a>
+<a href="https://github.com/ArikusumaWardana/orbita"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0e1a1f" alt="Orbita Source" /></a>
+
+</details>
+
+<details open>
+<summary><b>🎮 Side Quests</b> · Indie Games</summary>
+<br>
+
+### 🐻 [Animatronics Afterhours](https://gamejolt.com/games/animatronic_afterhours/1057914)
+Interactive horror game inspired by *Five Nights at Freddy's 2*, delivering a chilling experience crafted with real-world photo and video assets.
+
+<a href="https://gamejolt.com/games/animatronic_afterhours/1057914"><img src="https://img.shields.io/badge/PLAY-Game_Jolt-2f7f6f?style=flat-square&logo=gamejolt&logoColor=white&labelColor=0e1a1f" alt="Play Animatronics Afterhours on Game Jolt" /></a>
+
+<br><br>
+
+### 🔦 [Midnight Toys](https://palm-gamestudio.itch.io/midnight-toys)
+1980s survival horror game created for the GIMERSIA competition. Players manage CCTV feeds, flashlight battery power, and security shutters to hold off adaptive living prototype toys.
+
+<a href="https://palm-gamestudio.itch.io/midnight-toys"><img src="https://img.shields.io/badge/PLAY-itch.io-fa5c5c?style=flat-square&logo=itchdotio&logoColor=white&labelColor=0e1a1f" alt="Play Midnight Toys on itch.io" /></a>
+
+<br><br>
+
+### 🎾 [Paw Tennis](https://palm-gamestudio.itch.io/pawtennis)
+Arcade tennis sports game blended with roguelike progression mechanics, where players draft game-changing power-up cards between match waves.
+
+<a href="https://palm-gamestudio.itch.io/pawtennis"><img src="https://img.shields.io/badge/PLAY-itch.io-fa5c5c?style=flat-square&logo=itchdotio&logoColor=white&labelColor=0e1a1f" alt="Play Paw Tennis on itch.io" /></a>
+
+</details>
+
+<br>
+
 ## 🐍 Score Board
 
 <div align="center">
