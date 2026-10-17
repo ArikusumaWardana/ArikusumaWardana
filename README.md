@@ -84,7 +84,7 @@ const arik = {
 
 > Highlights of what I've shipped across web platforms and game development.
 
-<details open>
+<details>
 <summary><b>🌐 Main Quests</b> · Web Platforms</summary>
 <br>
 
@@ -116,7 +116,7 @@ const arik = {
 
 </details>
 
-<details open>
+<details>
 <summary><b>🎮 Side Quests</b> · Indie Games</summary>
 <br>
 
